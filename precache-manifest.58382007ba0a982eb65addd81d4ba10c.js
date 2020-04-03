@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d90866b9d7725da44bc9144f3a0587b5",
+    "revision": "288026f6c1f98a4cfbba6838eb872adb",
     "url": "/Laporan-Web-Design2/index.html"
   },
   {
-    "revision": "a8191e5722c53690da65",
+    "revision": "063ec9c6833a1578e4bd",
     "url": "/Laporan-Web-Design2/static/css/2.7ad897a5.chunk.css"
   },
   {
-    "revision": "7455b619f26ed389c4bf",
-    "url": "/Laporan-Web-Design2/static/css/main.b1772eeb.chunk.css"
+    "revision": "1250cabf2f6405d57105",
+    "url": "/Laporan-Web-Design2/static/css/main.e82ca868.chunk.css"
   },
   {
-    "revision": "a8191e5722c53690da65",
-    "url": "/Laporan-Web-Design2/static/js/2.d71d7a49.chunk.js"
+    "revision": "063ec9c6833a1578e4bd",
+    "url": "/Laporan-Web-Design2/static/js/2.fb638ccc.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Laporan-Web-Design2/static/js/2.d71d7a49.chunk.js.LICENSE.txt"
+    "url": "/Laporan-Web-Design2/static/js/2.fb638ccc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7455b619f26ed389c4bf",
-    "url": "/Laporan-Web-Design2/static/js/main.4fdd90c2.chunk.js"
+    "revision": "1250cabf2f6405d57105",
+    "url": "/Laporan-Web-Design2/static/js/main.faa1b4ba.chunk.js"
   },
   {
     "revision": "e9aaaa23c04a744507cd",
