@@ -1,0 +1,31 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card {
+    width: 30%;
+    height: auto;
+    margin: 20px 0 0 20px;
+    background: #fff;
+    border: solid thin #ddd;
+    box-shadow: 0 0 6px #999;
+    float: left;
+}
+
+.card .card-title {
+    font-size: 30px;
+    font-weight: normal;
+    color: #ff6d00;
+}
+
+.card .card-content {
+    padding: 15px;
+    font-size: 14px;
+    line-height: 1.6;
+}
