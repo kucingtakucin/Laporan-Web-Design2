@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4094206272cd843affedd8ee8e6f3887",
+    "revision": "38a6b668db65a4a8623ae0673175f50a",
     "url": "/Laporan-Web-Design2/index.html"
   },
   {
-    "revision": "063ec9c6833a1578e4bd",
+    "revision": "54bd593ba22723e73368",
     "url": "/Laporan-Web-Design2/static/css/2.7ad897a5.chunk.css"
   },
   {
-    "revision": "9e707f7fa135da0836e3",
-    "url": "/Laporan-Web-Design2/static/css/main.e82ca868.chunk.css"
+    "revision": "086824dc111967540f3f",
+    "url": "/Laporan-Web-Design2/static/css/main.78c9e7d3.chunk.css"
   },
   {
-    "revision": "063ec9c6833a1578e4bd",
-    "url": "/Laporan-Web-Design2/static/js/2.fb638ccc.chunk.js"
+    "revision": "54bd593ba22723e73368",
+    "url": "/Laporan-Web-Design2/static/js/2.917593dc.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Laporan-Web-Design2/static/js/2.fb638ccc.chunk.js.LICENSE.txt"
+    "url": "/Laporan-Web-Design2/static/js/2.917593dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e707f7fa135da0836e3",
-    "url": "/Laporan-Web-Design2/static/js/main.8b7d3ceb.chunk.js"
+    "revision": "086824dc111967540f3f",
+    "url": "/Laporan-Web-Design2/static/js/main.e5ae0c1e.chunk.js"
   },
   {
     "revision": "e9aaaa23c04a744507cd",
@@ -178,5 +178,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/Laporan-Web-Design2/static/media/logo.5d5d9eef.svg"
+  },
+  {
+    "revision": "fcb1692c32e9335e653f644cfb13d144",
+    "url": "/Laporan-Web-Design2/static/media/symphony.fcb1692c.png"
   }
 ]);

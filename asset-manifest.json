@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Laporan-Web-Design2/static/css/main.e82ca868.chunk.css",
-    "main.js": "/Laporan-Web-Design2/static/js/main.8b7d3ceb.chunk.js",
-    "main.js.map": "/Laporan-Web-Design2/static/js/main.8b7d3ceb.chunk.js.map",
+    "main.css": "/Laporan-Web-Design2/static/css/main.78c9e7d3.chunk.css",
+    "main.js": "/Laporan-Web-Design2/static/js/main.e5ae0c1e.chunk.js",
+    "main.js.map": "/Laporan-Web-Design2/static/js/main.e5ae0c1e.chunk.js.map",
     "runtime-main.js": "/Laporan-Web-Design2/static/js/runtime-main.54319354.js",
     "runtime-main.js.map": "/Laporan-Web-Design2/static/js/runtime-main.54319354.js.map",
     "static/css/2.7ad897a5.chunk.css": "/Laporan-Web-Design2/static/css/2.7ad897a5.chunk.css",
-    "static/js/2.fb638ccc.chunk.js": "/Laporan-Web-Design2/static/js/2.fb638ccc.chunk.js",
-    "static/js/2.fb638ccc.chunk.js.map": "/Laporan-Web-Design2/static/js/2.fb638ccc.chunk.js.map",
+    "static/js/2.917593dc.chunk.js": "/Laporan-Web-Design2/static/js/2.917593dc.chunk.js",
+    "static/js/2.917593dc.chunk.js.map": "/Laporan-Web-Design2/static/js/2.917593dc.chunk.js.map",
     "index.html": "/Laporan-Web-Design2/index.html",
-    "precache-manifest.c6ebb58dc9b99a26aca85a7fcc6434fd.js": "/Laporan-Web-Design2/precache-manifest.c6ebb58dc9b99a26aca85a7fcc6434fd.js",
+    "precache-manifest.8c883cd96931521c66c457374aa9b411.js": "/Laporan-Web-Design2/precache-manifest.8c883cd96931521c66c457374aa9b411.js",
     "service-worker.js": "/Laporan-Web-Design2/service-worker.js",
     "static/css/2.7ad897a5.chunk.css.map": "/Laporan-Web-Design2/static/css/2.7ad897a5.chunk.css.map",
-    "static/css/main.e82ca868.chunk.css.map": "/Laporan-Web-Design2/static/css/main.e82ca868.chunk.css.map",
-    "static/js/2.fb638ccc.chunk.js.LICENSE.txt": "/Laporan-Web-Design2/static/js/2.fb638ccc.chunk.js.LICENSE.txt",
+    "static/css/main.78c9e7d3.chunk.css.map": "/Laporan-Web-Design2/static/css/main.78c9e7d3.chunk.css.map",
+    "static/js/2.917593dc.chunk.js.LICENSE.txt": "/Laporan-Web-Design2/static/js/2.917593dc.chunk.js.LICENSE.txt",
     "static/media/01WidthHeight.png": "/Laporan-Web-Design2/static/media/01WidthHeight.d50cadf9.png",
     "static/media/02Margin.png": "/Laporan-Web-Design2/static/media/02Margin.e8441cf8.png",
     "static/media/03Padding.png": "/Laporan-Web-Design2/static/media/03Padding.30d9fd7d.png",
@@ -44,13 +44,14 @@
     "static/media/15Table3.png": "/Laporan-Web-Design2/static/media/15Table3.a518e6f4.png",
     "static/media/App.css": "/Laporan-Web-Design2/static/media/IndieFlower-webfont.cebc8d79.svg",
     "static/media/laravel-image.png": "/Laporan-Web-Design2/static/media/laravel-image.f482ce8f.png",
-    "static/media/logo.svg": "/Laporan-Web-Design2/static/media/logo.5d5d9eef.svg"
+    "static/media/logo.svg": "/Laporan-Web-Design2/static/media/logo.5d5d9eef.svg",
+    "static/media/background.css": "/Laporan-Web-Design2/static/media/symphony.fcb1692c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.54319354.js",
     "static/css/2.7ad897a5.chunk.css",
-    "static/js/2.fb638ccc.chunk.js",
-    "static/css/main.e82ca868.chunk.css",
-    "static/js/main.8b7d3ceb.chunk.js"
+    "static/js/2.917593dc.chunk.js",
+    "static/css/main.78c9e7d3.chunk.css",
+    "static/js/main.e5ae0c1e.chunk.js"
   ]
 }
