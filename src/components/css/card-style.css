@@ -1,0 +1,40 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+.css13 .kartu {
+    width: 30%;
+    height: auto;
+    margin: 20px 0 0 20px;
+}
+
+.css13 .kartu .kartu-image {
+    overflow: hidden;
+    max-height: 250px;
+}
+
+.css13 .kartu .kartu-image img {
+    width: 100%;
+}
+
+.css13 .kartu .kartu-title {
+    font-size: 30px;
+    font-weight: normal;
+    color: #ff6d00;
+}
+
+.css13 .kartu .kartu-content {
+    padding: 15px;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.css13 .kartu .kartu-action {
+    padding: 20px 15px;
+    border-top: solid thin #ddd;
+}
+
+.css13 .kartu .kartu-action a {
+    text-decoration: none;
+    color: #ff6d00;
+    margin-right: 20px;
+}

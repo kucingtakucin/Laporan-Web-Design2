@@ -1,0 +1,21 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+
+.css15 table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.css15 th {
+    background: #eeeeee;
+}
+
+.css15 td, .css15 th {
+    padding: 10px 5px;
+    border: solid thin #ccc;
+}
+
+.css15 tr, .css15 td {
+    background: #fff;
+}

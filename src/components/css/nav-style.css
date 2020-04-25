@@ -1,0 +1,50 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+
+.css11 .navigasi {
+    width: 100%;
+    background: #20b2aa;
+    float: left;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 0 0 6px #999;
+}
+
+.css11 .navigasi .title {
+    float: left;
+    font-size: 28px;
+    padding: 10px 16px;
+}
+
+.css11 .navigasi .title a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.css11 .navigasi ul {
+    float: right;
+}
+
+.css11 .navigasi ul li {
+    display: block;
+    float: left;
+    padding: 18px 0;
+}
+
+.css11 .navigasi li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 20px 16px;
+    font-size: 14px;
+}
+
+.css11 .navigasi li a:hover {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.css11 .navigasi li a:active {
+    background: rgba(0, 0, 0, 0.2);
+}

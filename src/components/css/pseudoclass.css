@@ -1,0 +1,31 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+
+.css07 .links ul {
+    width: 200px;
+    background: #eee;
+    list-style: none;
+}
+
+.css07 .links ul li {
+    width: 200px;
+    background: #20b2aa;
+    padding: 5px;
+}
+
+.css07 .links ul li a:active {
+    background: red;
+}
+
+.css07 .links ul li a:visited {
+    background: green;
+}
+
+.css07 .links ul li a:hover {
+    background: blue;
+}
+
+.css07 .links ul li a:link{
+    background: pink;
+}

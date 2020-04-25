@@ -1,0 +1,13 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+
+.text-styling {
+    font-family: Roboto, sans-serif;
+    font-style: italic;
+    font-weight: 600;
+    text-align: justify;
+    color: #20b2aa;
+    text-transform: capitalize;
+    line-height: 1.7;
+}

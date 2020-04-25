@@ -1,0 +1,53 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+
+.css12 .side-nav {
+    width: 230px;
+    height: 100%;
+    background-color: #333;
+    float: left;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: 0 0 6px #999;
+}
+
+.css12 .side-nav .title {
+    width: 100%;
+    float: left;
+    font-size: 28px;
+    padding: 14px;
+}
+
+.css12 .side-nav .title a {
+    text-decoration: none;
+    color: #20b2aa;
+}
+
+.css12 .side-nav ul {
+    float: left;
+}
+
+.css12 .side-nav ul li {
+    display: block;
+    padding: 13px 210px 12px 0;
+}
+
+.css12 .side-nav li a {
+    text-decoration: none;
+    color: #fff;
+    border-left: 4px solid transparent;
+    padding: 12px 210px 13px 16px;
+    font-size: 14px;
+}
+
+.css12 .side-nav li a:hover {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.css12 .side-nav li a:active {
+    border-left: 4px solid #20b2aa;
+    background: rgba(0, 0, 0, 0.2);
+}

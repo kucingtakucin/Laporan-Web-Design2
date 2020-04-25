@@ -1,0 +1,214 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+
+@font-face {
+    font-family: 'Indie Flower';
+    src: url('font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.eot?#iefix') format('embedded-opentype'),
+    url('font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.woff') format('woff'),
+    url('font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.ttf') format('truetype'),
+    url('font/IndieFlower/web_fonts/indieflower_regular_macroman/IndieFlower-webfont.svg#indie_flowerregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cuprum';
+    src: url('font/Cuprum/Cuprum-Regular-webfont.eot');
+    src: url('font/Cuprum/Cuprum-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('font/Cuprum/Cuprum-Regular-webfont.woff') format('woff'),
+    url('font/Cuprum/Cuprum-Regular-webfont.ttf') format('truetype'),
+    url('font/Cuprum/Cuprum-Regular-webfont.svg#cuprumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+.font-keren {
+    font-family: 'Indie Flower', cursive;
+}
+
+.App-nav {
+    font-family: 'Cuprum', sans-serif;
+    min-height: 55px;
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Cuprum', sans-serif;
+    color: white;
+}
+
+.App-main {
+    background-color: #282c34;
+    font-family: 'Cuprum', sans-serif;
+    min-height: 500px;
+}
+
+.App-main .alert {
+    background-color: rgba(234,234,234,0.8);
+    min-width: 250px;
+    margin: 100px 0;
+}
+
+.App-main .alert ul li {
+    list-style: none;
+}
+
+.App-main section h5#react-version {
+    margin: 0;
+    padding-bottom: 100px;
+}
+
+.App-footer {
+    background-color: #282c34;
+    min-height: 55px;
+    color: white;
+}
+
+.App-footer h5 {
+    line-height: 70px;
+    margin: 0;
+    padding: 0;
+}
+
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px){
+    .App-main .alert {
+        margin: 0 50px 50px 50px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px){
+    .App-header h1.font-keren {
+        font-size: 35px;
+    }
+
+    .App-main .alert {
+        margin: 0 50px 50px 50px;
+    }
+
+    .App-footer h5 {
+        font-size: 22px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 768px){
+    .App-header h1.font-keren {
+        font-size: 35px;
+    }
+
+    .App-main .alert {
+        margin: 0 50px 50px 50px;
+    }
+
+    .App-footer h5 {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 425px) and (max-width: 576px){
+    .App-nav a {
+        font-size: 16px;
+    }
+
+    .App-header h1.font-keren {
+        font-size: 25px;
+    }
+
+    .App-header h3 {
+        font-size: 23px;
+    }
+
+    .App-header h4{
+        font-size: 19px;
+    }
+
+    .App-main .alert {
+        margin: 0 50px 50px 50px;
+    }
+
+    .App-footer h5 {
+        font-size: 13px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 425px){
+    .App-nav a {
+        font-size: 12px;
+    }
+
+    .App-header h1.font-keren {
+        font-size: 18px;
+    }
+
+    .App-header h3 {
+        font-size: 23px;
+    }
+
+    .App-header h4{
+        font-size: 19px;
+    }
+
+    .App-main .alert {
+        margin: 0 50px 50px 50px;
+        min-width: 200px;
+
+    }
+
+    .App-footer h5 {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .App-nav a {
+        font-size: 10px;
+    }
+
+    .App-header h1.font-keren {
+        font-size: 18px;
+    }
+
+    .App-header h3 {
+        font-size: 23px;
+    }
+
+    .App-header h4{
+        font-size: 19px;
+    }
+
+    .App-main .alert {
+        margin: 0 50px 50px 50px;
+        min-width: 200px;
+
+    }
+
+    .App-footer h5 {
+        font-size: 10px;
+    }
+}

@@ -1,0 +1,27 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+
+.css14 .tombol .button {
+    margin: 20px 0 0 20px;
+    padding: 12px 20px;
+    background: #20b2aa;
+    float: left;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.css14 .tombol .rounded-button {
+    background: #fff;
+    color: #20b2aa;
+    border-radius: 30px;
+    border: solid 3px #20b2aa;
+}
+
+.css14 .tombol .flat-button {
+    box-shadow: 0 0 6px #999;
+    color: #fff;
+    border: solid thin #ddd;
+}

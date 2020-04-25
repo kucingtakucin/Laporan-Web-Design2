@@ -1,0 +1,17 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+.css09 .tombol .button {
+    margin-right: 50px;
+    padding: 12px 20px;
+    background: linear-gradient(#03a9f4, #01579b);
+    background: -moz-linear-gradient(#03a9f4, #01579b);
+    background: -webkit-linear-gradient(#03a9f4, #01579b);
+    color: #fff;
+    float: left;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border: none;
+}

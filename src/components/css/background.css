@@ -1,0 +1,9 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+
+.css06, .css06 .target-background {
+    background-image: url('../img/symphony.png');
+    background-position: center;
+    background-repeat: repeat;
+}

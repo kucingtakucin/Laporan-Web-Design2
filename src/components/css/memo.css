@@ -1,0 +1,25 @@
+/*
+ * Copyright (c) 2020. Adam Arthur Faizal.
+ */
+
+.css08 .circle {
+    width: 80px;
+    height: 80px;
+    margin: 10px 5px;
+    background: #20b2aa;
+    border: solid thin transparent;
+    border-radius: 100%;
+    font-size: 15px;
+    font-weight: 600;
+    float: left;
+    color: #fff;
+    text-align: center;
+    line-height: 80px
+}
+
+.css08 .circle:hover {
+    background: #fff;
+    color: #20b2aa;
+    border: solid thin #20b2aa;
+    cursor: pointer;
+}
